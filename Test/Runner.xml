@@ -1,0 +1,9 @@
+
+
+<Suite"Smoke" thread-count="2" parallel="classes">
+<test name="LoginTest">
+<Classes> 
+<class name="Testtesng"></class>
+</Classes>
+</test>
+</Suite>
